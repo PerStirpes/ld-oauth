@@ -1,4 +1,4 @@
-# hello-oauth-node
+# ld-oauth
 
 LaunchDarkly OAuth Node JS starter project. A functional OAuth example using the [client-oauth2](https://github.com/mulesoft/js-client-oauth2) library.
 
@@ -15,4 +15,3 @@ See [Authorizing OAuth Applications](https://docs.launchdarkly.com/docs/authoriz
    - `OAUTH_CLIENT_SECRET`
 4. Run `node app.js` to start the express server.
 5. Visit http://localhost:4000 to begin the authorization process.
-# ld-oauth

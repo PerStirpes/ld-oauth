@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "axios": "^0.19.2",
+    "client-oauth2": "4.2.5",
+    "cookie-session": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "express": "4.17.1",
+    "moment": "^2.24.0",
+    "pug": "^2.0.4"
+  },
+  "name": "ld-oauth",
+  "version": "0.0.0",
+  "description": "LD OAuth 2.0 starter",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
