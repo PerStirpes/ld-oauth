@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.20.0",
     "client-oauth2": "4.2.5",
     "cookie-session": "^1.4.0",
     "dotenv": "^8.2.0",
